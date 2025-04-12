@@ -62,7 +62,7 @@ form.addEventListener('submit', (e) => {
     form.reset();
 });
 function abin(){
-    alert("Twitter(X) elleda mwone")
+    alert("Twitter(X) elleda mwone")}
 // Hover effects for cards
 cards.forEach(card => {
     card.addEventListener('mouseenter', () => {
