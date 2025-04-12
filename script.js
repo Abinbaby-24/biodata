@@ -61,7 +61,8 @@ form.addEventListener('submit', (e) => {
     alert('Thank you for your message! I will get back to you soon.');
     form.reset();
 });
-
+function abin(){
+    alert("Twitter(X) elleda mwone")
 // Hover effects for cards
 cards.forEach(card => {
     card.addEventListener('mouseenter', () => {
